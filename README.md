@@ -21,4 +21,4 @@ python -m unittest discover -v
 | Tech | 45000 | 72000 | 36000 |
 
 ## หมายเหตุ
-- ทดสอบ SQL ด้วย SQLite ไวยากรณ์ใช้ได้กับ MySQL และ PostgreSQL ด้วย
+ทดสอบ SQL ด้วย SQLite ไวยากรณ์ใช้ได้กับ MySQL และ PostgreSQL ด้วย
