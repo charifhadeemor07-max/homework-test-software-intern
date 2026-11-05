@@ -5,7 +5,7 @@ Homework test for Software Engineer Intern
 - `solution.sql` : ข้อ 2 SQL รายงานของแต่ละแผนก (Top / Total / Average salary)
 - `test_sum_positive.py` : unit test ข้อ 1
 - `test_department_report.py` : unit test ข้อ 2 (ใช้ SQLite in-memory)
-- 
+  
 ## วิธีรัน test
 ```
 python -m unittest discover -v
